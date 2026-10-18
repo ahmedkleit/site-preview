@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a,b){return {staticAssetsBase:"\u002Fsite-preview\u002F_nuxt\u002Fstatic\u002F1792355431",layout:"default",error:a,state:{color:"#126FF4",fontColor:b,buttonColor:b},serverRendered:true,routePath:"\u002Fwork\u002Fknewin",config:{app:{basePath:"\u002Fsite-preview\u002F",assetsPath:"\u002Fsite-preview\u002F_nuxt\u002F",cdnURL:a}}}}(null,"#FFFFFF"));
